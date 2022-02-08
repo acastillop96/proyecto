@@ -1,5 +1,5 @@
 Hola mundo
 
-Realice algunos cambios
+Realice otros algunos cambios necesarios
 
-Gracias
+Muchas gracias
